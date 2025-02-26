@@ -315,6 +315,38 @@ img {
   align-items: center;
 }
 
+
+
+/* TESTEEEEEEE*/
+
+.guarantee {
+  background-color: var(--container-color);
+  padding: 4rem 2rem;
+  text-align: center;
+  border-radius: 0.75rem;
+  margin: 2rem auto;
+}
+
+.guarantee__title {
+  font-size: var(--bigger-font-size);
+  font-weight: var(--font-semi-bold);
+  background: var(--text-gradient);
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  margin-bottom: var(--mb-1);
+}
+
+.guarantee__description {
+  font-size: var(--normal-font-size);
+  color: var(--text-color);
+  margin-bottom: var(--mb-2);
+  line-height: var(--text-line-height);
+}
+
+
+
+
 /*=============== SPECS ===============*/
 .specs__container {
   position: relative;
